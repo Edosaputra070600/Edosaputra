@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CV </title>
+    <style type="text/css">
+        h1 {
+            text-align: center;
+        };
+
+    </style>
+</head>
+<body>
+    <h1>cv</h1>a
+    <table   align="center" bgcolor="#FFD700">
+        <tr>
+            <td rowspan="19" valign="top"><img src="EDO.JPEG" alt="foto profile" width="150px"></td>
+            <td>nama lengkap</td>
+            <td>:</td>
+            <td>Edo saputra</td>
+        </tr>
+        <tr>
+            <td>nama panggilan</td>
+            <td>:</td>
+            <td>Edo</td>
+
+        </tr>
+        <tr>
+            <td>TTL</td>
+            <td>:</td>
+            <td>07-june-2000</td>
+
+        </tr>
+        <tr>
+            <td>jenis kelamin</td>
+            <td>:</td>
+            <td><i>laki-laki</i></td>
+
+        </tr><tr>
+            <td>TB/BB</td>
+            <td>:</td>
+            <td>170<small>cm</small>/60<small>kg</small>  </td>
+
+        </tr><tr>
+            <td>agama</td>
+            <td>:</td>
+            <td> <em>Islam</em></td>
+
+        </tr><tr>
+            <td>Nomor Tel.Hp</td>
+            <td>:</td>
+            <td> <b>083171498544</b></td>
+
+        </tr>
+        <tr>
+            <td>email/sosmed</td>
+            <td>:</td>
+            <td>  <a href="mailto:Sedo58812@gmail.com" target="_blank">Sedo58812@gmail.com</a></td>
+        </tr>
+        <tr>
+            <td valign="top">Riwayat pendidikan</td>
+            <td valign="top">:</td>
+            <td>
+                <ul>
+                    <li>SD(2007-2013)</li>
+                    <li>SMP(2013-2016)</li>
+                    <li>SMA(2017-2019)</li>
+                    <li>KULIAH(sekarang)</li>
+                </ul>
+            </td>
+        </tr>]
+        <tr>
+            <td valign="top">Hobi</td>
+            <td valign="top">:</td>
+            <td>
+                <ol>
+                    <li>Bola Kaki</li>
+                    <li>belajar Editing</li>
+                </ol>
+            </td>
+        </tr><tr>
+            <td>Alamat rumah</td>
+            <td>:</td>
+            <td> <address>Desa Telang, Kec.Bayung Lencir</address></td>
+        </tr>
+        <tr>
+            <td>Alamat sekarang</td>
+            <td>:</td>
+            <td><address>jln.Permai indah,RT 023,kel.kenali Bawah,kec.Kota Baru</address></td>
+        </tr>
+        <tr>
+            <td>kata motivasi</td>
+            <td>:</td>
+            <td><q><strong>Jika anda stres minumlah kopi dan sambil udud, jangan minum miras haram</strong></q></td>
+        </tr><tr>
+            <td>organisasi</td>
+            <td>:</td>
+            <td>IMBL(ikatan mahasiswa bayung lencir)</td>
+        </tr><tr>
+            <td valign="top">bidang keahlian</td>
+            <td valign="top">:</td>
+            <td>
+                <details>
+                    <summary>excel</summary>
+                </details>
+                <details>
+                    <summary>editor</summary>
+                </details>
+            </td>
+        </tr>
+        <tr>
+            <td>Golongan darah</td>
+            <td>:</td>
+            <td>AB<sup>-</sup></td>
+        </tr><tr>
+            <td valign="top">saran</td>
+            <td valign="top">:</td>
+            <td>
+                <textarea>Saran untuk saya...</textarea>
+            </td>
+        </tr>
+        
+    </table
+</body>
+</html>
